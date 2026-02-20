@@ -167,6 +167,8 @@ ggpredict(
 
 How would you interpret this?  
 
+**at ph=8 th emodel predicst that abolone change in shell surface area per day should be 5.36 mm^2^ d^-1^ (95% CI: [5.08, 5.64])
+
 **insert your response here**
 
 ### Visualizing model predictions and data
